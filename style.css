@@ -1,0 +1,11 @@
+.origami{
+    border: solid;   
+    display: flex;
+    justify-content: space-around;
+    float: left;
+    flex-wrap: wrap;    
+}
+
+body{
+    background-color:cornsilk
+}
